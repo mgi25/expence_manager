@@ -1,0 +1,23 @@
+[
+    {
+        "Type": "Income",
+        "Date": "2025-02-05",
+        "Category": "Salary",
+        "Amount": 2000,
+        "Description": "Monthly salary"
+    },
+    {
+        "Type": "Expense",
+        "Date": "2025-02-06",
+        "Category": "Food",
+        "Amount": 50,
+        "Description": "Dinner at a restaurant"
+    },
+    {
+        "Type": "Expense",
+        "Date": "2025-02-06",
+        "Category": "Food",
+        "Amount": 50,
+        "Description": "Dinner"
+    }
+]
